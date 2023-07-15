@@ -1,4 +1,4 @@
-# HR Analytics Code and Dashboard
+# HR Analytics SQL Code and Dashboard
 
 in this Project, I analyzed a dataset to find any hidden factors contributing to this company's turnover rate.
 
